@@ -1,0 +1,24 @@
+{
+  "name": "Angular2NxG",
+  "version": "1.0.0",
+  "description": "Angular 2 Playing - NextGen",
+  "main": "app.ts",
+  "dependencies": {
+    "gulp": "^3.8.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Angular2NxG"
+  },
+  "keywords": [
+    "angular",
+    "angular2",
+    "nextgen"
+  ],
+  "author": "Brandon Dowling",
+  "license": "ISC"
+}
